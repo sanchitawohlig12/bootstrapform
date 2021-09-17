@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/wohlig/fullstack/nuxt/bootstrap/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4915cd34"
+  }
+]
